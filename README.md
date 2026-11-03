@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/robot-avatar-v2.png" alt="Robot guardián violeta de Robert Anthony, con mirada enojada, ojos cian y brazos cruzados, estilo pixel art" width="220">
+  <img src="assets/robot-avatar-v3.png" alt="Robot verde de Robert Anthony, sencillo, con brazos cruzados y mirada enojada, estilo pixel art" width="220">
 </p>
 
 <h1 align="center">Hola 👋, soy Robert Anthony</h1>

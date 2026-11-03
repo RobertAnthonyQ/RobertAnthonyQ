@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<title id="title">Robert Anthony — IA, agentes y automatización</title><desc id="desc">Conecto ideas, código e inteligencia artificial. Perfil de RobertAnthonyQ.</desc>
+<defs>
+<radialGradient id="glow"><stop stop-color="#b8ff55" stop-opacity=".12"/><stop offset="1" stop-color="#b8ff55" stop-opacity="0"/></radialGradient>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111b19"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#25342a"/></pattern>
+</defs><g font-family="Arial, Helvetica, sans-serif">
+<rect width="1200" height="410" rx="22" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="1199" height="409" rx="22" fill="none" stroke="#2c3a30"/>
+<rect x="740" y="1" width="438" height="408" fill="url(#dots)"/>
+<circle cx="963" cy="202" r="239" fill="url(#glow)"/>
+<path d="M58 66H87" stroke="#b8ff55" stroke-width="3"/>
+<text x="102" y="72" fill="#a5b3a8" font-size="16" letter-spacing="3">HOLA, SOY</text>
+<text x="54" y="154" fill="#f1f6ef" font-size="69" font-weight="700" letter-spacing="-3">Robert Anthony<tspan fill="#b8ff55">.</tspan></text>
+<text x="58" y="211" fill="#b8ff55" font-size="28" font-weight="600">IA, agentes y automatización.</text>
+<text x="58" y="256" fill="#a8b5ad" font-size="21">Conecto ideas, código e inteligencia artificial.</text>
+<path d="M58 298H680" stroke="#2c3a30"/>
+<text x="58" y="344" fill="#d2dfd3" font-size="16" letter-spacing="2">APPLIED AI</text>
+<circle cx="190" cy="338" r="3" fill="#b8ff55"/>
+<text x="210" y="344" fill="#d2dfd3" font-size="16" letter-spacing="2">MULTI-AGENT SYSTEMS</text>
+<circle cx="449" cy="338" r="3" fill="#b8ff55"/>
+<text x="469" y="344" fill="#d2dfd3" font-size="16" letter-spacing="2">AUTOMATION</text>
+<g stroke="#46613b" fill="none" stroke-width="1.5"><circle cx="969" cy="193" r="146" stroke-dasharray="4 9"/><path d="M800 142H839M1095 264H1145V179"/></g>
+<circle cx="795" cy="142" r="6" fill="#b8ff55"/><circle cx="1145" cy="174" r="6" fill="#6ee7c5"/>
+<g transform="translate(969 182) scale(.79)">
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M0 -104V-132" stroke="#b8ff55" stroke-width="9"/>
+  <circle cy="-143" r="11" fill="#b8ff55" stroke="none"/>
+  <rect x="-101" y="-94" width="202" height="162" rx="49" fill="#b8ff55" stroke="none"/>
+  <rect x="-80" y="-71" width="160" height="110" rx="30" fill="#0d1714" stroke="none"/>
+  <path d="M-38 -33L-51 -20L-38 -7M38 -33L51 -20L38 -7" stroke="#b8ff55" stroke-width="9"/>
+  <path d="M-14 9Q0 21 14 9" stroke="#b8ff55" stroke-width="6"/>
+  <rect x="-122" y="-45" width="14" height="53" rx="7" fill="#77ba39" stroke="none"/>
+  <rect x="108" y="-45" width="14" height="53" rx="7" fill="#77ba39" stroke="none"/>
+  <path d="M-61 87H61L77 152H-77Z" fill="#b8ff55" stroke="none"/>
+  <rect x="-36" y="106" width="72" height="27" rx="8" fill="#0d1714" stroke="none"/>
+  <circle cx="-17" cy="119" r="4" fill="#b8ff55" stroke="none"/>
+  <path d="M-3 119H19" stroke="#b8ff55" stroke-width="4"/>
+  <path d="M-84 96L-105 130M84 96L105 130" stroke="#77ba39" stroke-width="15"/>
+  <path d="M-40 168V182M40 168V182" stroke="#b8ff55" stroke-width="18"/>
+</g></g>
+<rect x="868" y="350" width="203" height="33" rx="16.5" fill="#19251c" stroke="#38512a"/>
+<circle cx="888" cy="367" r="4" fill="#b8ff55"/><text x="902" y="372" fill="#c7d8c7" font-family="monospace" font-size="14">@RobertAnthonyQ</text>
+</g></svg>

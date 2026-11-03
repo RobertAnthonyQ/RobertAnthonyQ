@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="145" viewBox="0 0 580 145" role="img" aria-labelledby="title desc">
+<title id="title">HULTIE — AUTOMATIZACIÓN</title><desc id="desc"></desc>
+<defs>
+<radialGradient id="glow"><stop stop-color="#b8ff55" stop-opacity=".12"/><stop offset="1" stop-color="#b8ff55" stop-opacity="0"/></radialGradient>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111b19"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#25342a"/></pattern>
+</defs><g font-family="Arial, Helvetica, sans-serif"><rect width="580" height="145" rx="12" fill="#11191b"/><rect x=".5" y=".5" width="579" height="144" rx="12" fill="none" stroke="#2c3834"/>
+<text x="26" y="34" fill="#aabaff" font-size="13" font-family="monospace" letter-spacing="2">03 / AUTOMATIZACIÓN</text>
+<text x="25" y="96" fill="#f1f6ef" font-size="44" font-weight="700" letter-spacing="-1">HULTIE</text>
+<g fill="#aabaff"><path d="M508 28L480 73H500L493 109L530 60H509Z"/></g></g></svg>

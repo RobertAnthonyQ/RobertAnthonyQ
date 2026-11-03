@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="#sobre-mí">Sobre mí</a> &nbsp; · &nbsp;
-  <a href="#proyectos-destacados">Proyectos</a> &nbsp; · &nbsp;
   <a href="#tecnologías">Tecnologías</a>
 </p>
 
@@ -16,39 +15,6 @@ Me enfoco en **inteligencia artificial aplicada, agentes y automatización**. De
 - **IA aplicada:** experiencias y productos con inteligencia artificial generativa.
 - **Agentes:** coordinación de procesos y herramientas en sistemas multiagente.
 - **Automatización:** integraciones que conectan aplicaciones y flujos de trabajo.
-
-### Proyectos destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/RobertAnthonyQ/fashia_platform"><img src="assets/fashia.svg" alt="Fashia · IA generativa" width="100%"></a>
-      <p>Plataforma de IA generativa para transformar fotografías de productos de moda en contenido editorial.</p>
-      <p><sub>Next.js · TypeScript · Supabase · Gemini</sub></p>
-      <a href="https://github.com/RobertAnthonyQ/fashia_platform"><strong>Explorar proyecto ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/RobertAnthonyQ/office_virtual"><img src="assets/agencyos.svg" alt="AgencyOS · Sistemas multiagente" width="100%"></a>
-      <p>Oficina virtual para visualizar y coordinar agentes de IA con sesiones persistentes y comunicación en tiempo real.</p>
-      <p><sub>Next.js · React · Node.js · Socket.io</sub></p>
-      <a href="https://github.com/RobertAnthonyQ/office_virtual"><strong>Explorar proyecto ↗</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/RobertAnthonyQ/HULTIE"><img src="assets/hultie.svg" alt="HULTIE · Automatización" width="100%"></a>
-      <p>Integración de WhatsApp y Chatwoot con Evolution API para conectar conversaciones y flujos de atención.</p>
-      <p><sub>Python · Evolution API · Chatwoot · Docker</sub></p>
-      <a href="https://github.com/RobertAnthonyQ/HULTIE"><strong>Explorar proyecto ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/RobertAnthonyQ/Brainlive"><img src="assets/brainlive.svg" alt="Brainlive · Datos y visualización 3D" width="100%"></a>
-      <p>Visualizador interactivo de grafos en 3D para explorar nodos, relaciones y conexiones de Neo4j.</p>
-      <p><sub>Three.js · Neo4j · JavaScript · Python</sub></p>
-      <a href="https://github.com/RobertAnthonyQ/Brainlive"><strong>Explorar proyecto ↗</strong></a>
-    </td>
-  </tr>
-</table>
 
 ### Tecnologías
 
@@ -72,6 +38,5 @@ Me enfoco en **inteligencia artificial aplicada, agentes y automatización**. De
 
 <p align="center">
   <strong>Ideas → código → soluciones.</strong><br>
-  <sub>IA aplicada · Agentes · Automatización</sub><br><br>
-  <a href="https://github.com/RobertAnthonyQ?tab=repositories">Ver todos mis repositorios ↗</a>
+  <sub>IA aplicada · Agentes · Automatización</sub>
 </p>

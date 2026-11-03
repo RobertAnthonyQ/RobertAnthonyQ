@@ -1,7 +1,10 @@
-<picture>
-  <source media="(max-width: 640px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero.svg" alt="Hola, soy Robert Anthony. IA, agentes y automatización. Conecto ideas, código e inteligencia artificial." width="100%">
-</picture>
+<p align="center">
+  <img src="assets/robot-avatar.png" alt="Robot verde neón de Robert Anthony, estilo pixel art, programando y saludando" width="220">
+</p>
+
+<h1 align="center">Hola 👋, soy Robert Anthony</h1>
+<h3 align="center">IA, agentes y automatización</h3>
+<p align="center">Conecto ideas, código e inteligencia artificial.</p>
 
 <p align="center">
   <a href="#sobre-mí">Sobre mí</a> &nbsp; · &nbsp;
